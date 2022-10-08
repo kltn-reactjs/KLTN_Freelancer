@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    padding-left: 80px;
+    justify-content: center;
+}
+
+.logo {
+    margin-right: 20px;
+    width: 95px;
+    img {
+        width: 75px;
+        height: 38px;
+    }
+}

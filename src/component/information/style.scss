@@ -1,0 +1,25 @@
+.cardContainer {
+    margin: 100px 0;
+    h2 {
+        font-size: 48px;
+        line-height: 1.2;
+    }
+    .listCard {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.cardItem {
+    width: 23%;
+    margin-right: 20px;
+    .title {
+        display: flex;
+        align-items: center;
+        img {
+            width: 60px;
+            
+        }
+    }
+    
+}
